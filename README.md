@@ -1,6 +1,6 @@
 - 
 👋 Hi, I’m @yogendraraj02 A prefinal year Computer Science Student in Mahakal Institute of Technology, Ujjain.
-  I am skilled in python and python web frameworks (Django and Flask),front end development using HTML,CSS ,JavaScript ,Bootstrap,JQuery and backend development using django ,Flask,Node ,Express,and I know both SQL and NOSQL databases also I have a good grasp on data structures and algorithms.
+  I am skilled in python and python web frameworks (Django and Flask),front end development using HTML,CSS ,JavaScript ,Bootstrap,JQuery and backend development using django ,Flask,Node ,Express,and I know both SQL and NOSQL databases also I have good grasp on data structures and algorithms.
 -
 👀 I’m interested in full stack web development  
 - 
