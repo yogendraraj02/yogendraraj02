@@ -1,8 +1,8 @@
 - 
-👋 Hi, I’m @yogendraraj02 A final year Computer Science Student in Mahakal Institute of Technology, Ujjain.
+👋 Hi, I’m @yogendraraj02 A final year Computer Science Student from Mahakal Institute of Technology, Ujjain.
   I am skilled in python and python web frameworks (Django and Flask),front end development using HTML,CSS ,JavaScript ,Bootstrap,JQuery and backend development using django ,Flask,Node ,Express.
 -
-👀 I’m interested in full stack web development  
+👀 I’m interested in web development.  
 - 
 
 - 
