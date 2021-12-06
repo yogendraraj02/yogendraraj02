@@ -1,7 +1,6 @@
-- 
+
 👋 Hi, I’m @yogendraraj02 A final year Computer Science Student from Mahakal Institute of Technology, Ujjain.
-  
--
+
 👀 I’m interested in web development.  
 - 
 
