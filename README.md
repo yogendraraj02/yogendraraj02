@@ -16,4 +16,4 @@
 yogendraraj02/yogendraraj02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://github-readme-stats.vercel.app/api?username=yogendraraj02&theme=synthwave&show_icons=true&count_private=true
+
