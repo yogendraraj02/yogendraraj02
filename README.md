@@ -9,7 +9,7 @@
 
   Linkedin - www.linkedin.com/in/yogendraraj02
   Instagram - @yogendraraj02
-  twitter - @yogendraraj02
+  
 
 
 <!---
