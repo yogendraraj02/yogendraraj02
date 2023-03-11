@@ -1,7 +1,6 @@
 
 👋 Hi, I’m @yogendraraj02
 
-- 
 
 <!---
 yogendraraj02/yogendraraj02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
